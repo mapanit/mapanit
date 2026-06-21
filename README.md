@@ -13,7 +13,7 @@
 ### 🔒 **Information Security**
 - **Penetration Testing:** OWASP Top 10, Web/Network Security
 - **Tools:** Burp Suite, Nmap, Metasploit, Nessus, SQLmap, Dirsearch, ffuf, Linpeas и т.д.
-- **Platforms:** Kali Linux
+- **Platforms:** Linux
 - **Methodologies:** PTES, OSSTMM
 
 ### 💻 **Development**
