@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&duration=3000&pause=900&color=FF7A45&center=true&vCenter=true&width=760&height=48&lines=Специалист+по+информационной+безопасности;Security+Researcher+%26+Developer;Пентест+%7C+Bug+Bounty+%7C+CTF" alt="Павел Цветков — специалист по информационной безопасности" />
+  <strong>Специалист по информационной безопасности</strong><br>
+  <sub>Security Researcher &amp; Developer · Пентест · Bug Bounty · CTF</sub>
 </p>
 
 <p align="center">
